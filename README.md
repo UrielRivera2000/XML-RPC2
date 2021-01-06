@@ -4,8 +4,7 @@ Proyecto XML-RPC que funciona como Servidor
 recibe el nombre de la persona, su pueso y su altura, para posteriormente realizar el calculo de su IMC, y que al final devuelva un mesaje que diga “Hola (nombre) tu IMC es: ?"
 
   - _Cliente que consuma el servicio._
-  - Nota: 
-   - _Consumir el servicio con postman._
+  - Nota: _Consumir el servicio con postman._
 
 ## Detalles 🚀
 *Es un ejemplo de un servico XML-RPC sencillo.*
