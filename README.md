@@ -5,15 +5,15 @@ recibe el nombre de la persona, su pueso y su altura, para posteriormente realiz
 
   - _Cliente que consuma el servicio._
   - Nota: 
-	-_Consumir el servicio con postman._
+   - _Consumir el servicio con postman._
 
-## Detalles :tw-2660:
+## Detalles 🚀
 *Es un ejemplo de un servico XML-RPC sencillo.*
 
 
-## Desarrollado en... :tw-1f4a5:
+## Desarrollado en... 🛠️
 [intellij IDEA 2020.1](https://www.jetbrains.com/idea/download/#section=windows) -Ultimate
 
 
-#### Notas
+#### Notas 🤓
 _Espero sea de tu agrado, eres libre de mejorarlo._
