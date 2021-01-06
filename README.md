@@ -11,9 +11,9 @@ recibe el nombre de la persona, su pueso y su altura, para posteriormente realiz
 *Es un ejemplo de un servico XML-RPC sencillo.*
 
 
-##Desarrollado en... :tw-1f4a5:
+## Desarrollado en... :tw-1f4a5:
 [intellij IDEA 2020.1](https://www.jetbrains.com/idea/download/#section=windows) -Ultimate
 
 
-####Notas
+#### Notas
 _Espero sea de tu agrado, eres libre de mejorarlo._
